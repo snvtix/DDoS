@@ -1,2 +1,2 @@
 # DDoS
-PCYB project.
+DDoS project built with Python for studies at WUT.
