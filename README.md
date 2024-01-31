@@ -1,2 +1,2 @@
 # DDoS
-DDoS project built with Python for studies at WUT.
+DDoS project built with Python for studies assignment at WUT.
